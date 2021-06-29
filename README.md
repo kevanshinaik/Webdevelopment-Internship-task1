@@ -77,10 +77,11 @@ PYTHON IDLE: It is an integrated development environment for Python, which has b
 OUTPUT SCREENSHOT:
 ![image](https://user-images.githubusercontent.com/85191407/123751209-16f94280-d8d5-11eb-8b5a-4078695369af.png)
 
-OUTPUT OF 2nd project:
+OUTPUT OF 2nd project: CURRENCY CONVERSION APP
+
 ![image](https://user-images.githubusercontent.com/85191407/123766455-567b5b00-d8e4-11eb-8ddd-5ba4f9048886.png)
 
-![image](https://user-images.githubusercontent.com/85191407/123751209-16f94280-d8d5-11eb-8b5a-4078695369af.png)
+
 ![image](https://user-images.githubusercontent.com/85191407/123766768-980c0600-d8e4-11eb-8c3d-a1bdfe0650ca.png)
 
 
