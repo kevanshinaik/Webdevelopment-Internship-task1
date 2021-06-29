@@ -1,6 +1,28 @@
 # Webdevelopment-Internship-task1
 Task consist of designing Frontend web development using HTML, CSS , Bootstrap , php.
 
+
+
+Methology used to complete the internship:
+Week 1 - Learn concepts of HTML, Bootstrap, CSS and php.
+
+Week 2- Start building the websites.
+
+Week 3- Apply the complex concepts and make the websites reactive.
+
+Week 4- Apply final finishing touches and make sure the websites are ready and responsive
+
+Week 5- Research about the currency converter & learn concepts related to Python.
+
+Week 6- Start building the currency converter & apply previously learned concepts of the project.
+
+Week 7- Content Writing and Search Engine Optimisation in Digital Marketing.
+
+Week 8- Completing the final documentation of all the projects.
+
+
+
+![image](https://user-images.githubusercontent.com/85191407/123751063-ef09df00-d8d4-11eb-90d2-fa658cb9da11.png)
 TEMPLATE 3 OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/85191407/123688725-fe0a7600-d86f-11eb-9309-76cf10085067.png)
@@ -54,15 +76,5 @@ PYTHON IDLE: It is an integrated development environment for Python, which has b
 OUTPUT SCREENSHOT:
 ![image](https://user-images.githubusercontent.com/85191407/123751209-16f94280-d8d5-11eb-8b5a-4078695369af.png)
 
-Methology used to complete the internship:
-Week 1 - Learn concepts of HTML, Bootstrap, CSS and Javascript
-Week 2- Start building the websites.
-Week 3- Apply the complex concepts and make the websites reactive.
-Week 4- Apply final finishing touches and make sure the websites are ready and responsive
-Week 5- Research about the currency converter & learn concepts related to Python.
-Week 6- Start building the currency converter & apply previously learned concepts of the project.
-Week 7- Content Writing and Search Engine Optimisation in Digital Marketing.
-Week 8- Completing the final documentation of all the projects.
 
-![image](https://user-images.githubusercontent.com/85191407/123751063-ef09df00-d8d4-11eb-90d2-fa658cb9da11.png)
 
