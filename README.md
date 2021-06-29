@@ -1,9 +1,11 @@
 # Webdevelopment-Internship-task1
-Task consist of designing Frontend web development using HTML, CSS , Bootstrap , php.
+Task consist of designing Frontend web development using HTML, CSS , Bootstrap , php and Python project.
 
 
 
 Methology used to complete the internship:
+
+
 Week 1 - Learn concepts of HTML, Bootstrap, CSS and php.
 
 Week 2- Start building the websites.
@@ -22,7 +24,6 @@ Methology used to complete the internship:
 
 
 
-![image](https://user-images.githubusercontent.com/85191407/123751063-ef09df00-d8d4-11eb-90d2-fa658cb9da11.png)
 TEMPLATE 3 OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/85191407/123688725-fe0a7600-d86f-11eb-9309-76cf10085067.png)
